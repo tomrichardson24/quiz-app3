@@ -1,0 +1,80 @@
+body {
+    padding: 10px;
+}
+#submit-wrapper {
+    text-align: center;
+
+}
+
+#retake {
+    display: none;
+    text-align: center;
+    padding: 25px;
+}
+
+.correct {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px;
+}
+
+.incorrect {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px;
+}
+
+#submitanswer {
+    display: none;
+    text-align: center;
+    padding: 25px;
+}
+
+h4 {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px;
+}
+
+#questions {
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+input[type=radio] {
+    margin: 10px;
+}
+#beginthis {
+    text-align: center;
+    padding: 25px;
+}
+
+#stand-part-1 {
+    width: 30px;
+    height: 80px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#stand-part-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: auto;
+    margin-right: auto;
+}
